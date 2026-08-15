@@ -26,6 +26,7 @@ Public case studies and repositories are being curated. I prefer a small set of 
 
 ### Connect
 
+- [Portfolio — ortu.me](https://www.ortu.me/en/)
 - [LinkedIn — Morris Li](https://www.linkedin.com/in/morris-dreamsprouts/)
 
 ## 繁體中文
@@ -52,6 +53,7 @@ Public case studies and repositories are being curated. I prefer a small set of 
 
 ### 聯絡
 
+- [作品集 — ortu.me](https://www.ortu.me/)
 - [LinkedIn — Morris Li](https://www.linkedin.com/in/morris-dreamsprouts/)
 
 ## 日本語（にほんご）
@@ -78,4 +80,5 @@ Public case studies and repositories are being curated. I prefer a small set of 
 
 ### 連絡先（れんらくさき）
 
+- [ポートフォリオ — ortu.me](https://www.ortu.me/ja/)
 - [LinkedIn — Morris Li](https://www.linkedin.com/in/morris-dreamsprouts/)
